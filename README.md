@@ -6,7 +6,7 @@ A **frontend web application** to book theatre seats, view available shows, and 
 
 ## 🌐 Live Demo
 Check out the project live:  
-<a href="https://sravyabulusu.github.io/Movie_project/">Click here to open in a new tab</a>
+<a href="https://sravyabulusu.github.io/Movie_project/">Click Here</a>
 
 ---
 
